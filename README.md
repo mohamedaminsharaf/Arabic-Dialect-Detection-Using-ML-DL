@@ -8,3 +8,4 @@ In the train folder you will find the models being trained on the data
 
 In the test folder you will find the models being evaluated on the test data
 
+You can download the dataset from here: https://drive.google.com/file/d/1-6kfN_hTaKvKyiYRvQWcIYdhWlODwTJq/view?usp=sharing
